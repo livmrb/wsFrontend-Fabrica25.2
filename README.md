@@ -45,7 +45,6 @@ Aqui você encontra uma lista de Pokémons, pode buscar por nome, alternar a for
   - Usuário pode favoritar/desfavoritar Pokémons
   - Página `/favoritos` com a lista dos Pokémons marcados como favoritos
 
----
 
 ## Tecnologias Utilizadas
 
@@ -54,8 +53,6 @@ Aqui você encontra uma lista de Pokémons, pode buscar por nome, alternar a for
 - **CSS Modules** — Estilos modularizados por componente.
 - **ESLint e Prettier** — Para manter o código limpo e consistente.
 - **Vercel** — Plataforma para deploy e hospedagem online.
-
----
 
 ## Deploy
 
